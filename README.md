@@ -24,11 +24,31 @@ The following project was created for the SQL Challenge # 4 conducted by Codebas
 
 | Table name and Size | Description |
 | :------------------- | :------------------- |
-| dim_customer (209 rows, 7 columns) | Customer information |
-| dim_product (397 rows, 6 columns) | Product information |
-| fact_pre_invoice_deductions (418 rows, 3 columns) | Pre invoice deductions information for each customer |
-| fact_gross_price (579 rows, 3 columns) | Gross price information for each product |
-| fact_manufacturing_cost (579 rows, 3 columns) | Manufacturing cost information for each product |
-| fact_sales_monthly (971631 rows, 5 columns) | Monthly sales information |
+| dim_customer - **(209 rows, 7 columns)** | Customer information |
+| dim_product - **(397 rows, 6 columns)** | Product information |
+| fact_pre_invoice_deductions - **(418 rows, 3 columns)** | Pre invoice deductions information for each customer |
+| fact_gross_price - **(579 rows, 3 columns)** | Gross price information for each product |
+| fact_manufacturing_cost - **(579 rows, 3 columns)** | Manufacturing cost information for each product |
+| fact_sales_monthly - **(971631 rows, 5 columns)** | Monthly sales information |
 
+# Tools
+* MySQL : To generate table output for 10 Ad-Hoc requests by exceuting the query statements. 
+* PowerBI : To create visualizations for the outputs obtained for 10 Ad-Hoc requests. 
+* PowerPoint : To prepare presentation for the Top - level management to present the insights obtained by exceuting 10 Ad-Hoc requests.
+
+# Process
+
+# Things I Learnt
+- Consumer domain terms:
+- MySQL clauses and functions
+- Using HEX colors in PowerBI
+- Animations and Video recording in PowerpOint presentation
+
+# Insights
+- All the insights
+
+# Credits
+ - For images
+
+# Thank You
 
