@@ -1,6 +1,6 @@
 # Codebasics_SQL_Challenge4
-The following project was created for the SQL Challenge # 4 conducted by Codebasics
-- **Title**: Providing Insights to Top Level Management at Atliq Hardwares in Consumer Goods Domain
+The following project was created for the SQL Challenge # 4 conducted by Codebasics.
+- **Title**: Providing Insights to Top Level Management at Atliq Hardwares in Consumer Goods Domain.
 
 # Introduction
 ## Company Background
@@ -32,17 +32,20 @@ The following project was created for the SQL Challenge # 4 conducted by Codebas
 | fact_sales_monthly - **(971631 rows, 5 columns)** | Monthly sales information |
 
 # Tools
-* MySQL : To generate table output for 10 Ad-Hoc requests by exceuting the query statements. 
-* PowerBI : To create visualizations for the outputs obtained for 10 Ad-Hoc requests. 
-* PowerPoint : To prepare presentation for the Top - level management to present the insights obtained by exceuting 10 Ad-Hoc requests.
-
-# Process
+* **MySQL** : To perform data analysis for 10 Ad-Hoc requests by exceuting the query statements. 
+* **PowerBI** : To create visualizations for the outputs obtained for 10 Ad-Hoc requests. 
+* **PowerPoint** : To prepare presentation for the Top - level management to present the insights obtained by exceuting 10 Ad-Hoc requests.
 
 # Things I Learnt
-- Consumer domain terms:
-- MySQL clauses and functions
-- Using HEX colors in PowerBI
-- Animations and Video recording in PowerPoint presentation
+- **Consumer domain terms**: fiscal year, gross price, manufacturing cost, pre - invoice discount, gross sales, sold quantity. 
+- **MySQL concepts** 
+  - **Clauses**:SEELCT, FROM, WHERE, ORDER BY, GROUP BY.
+  - **Operators**: =, >=, <=, AND.
+  - **Functions**: DISTINCT, COUNT, ROUND, RANK, OVER, PARTITION, LIMIT, DESC.
+  - **Aggregate Functions**: MAX, MIN, SUM, AVG.
+  - **Joins**, **CTE's (Common Table Expression)**.
+- Building Visualizations and formatting them using PowerBI.
+- Adding animations and video recording in PowerPoint presentation.
 
 # Key Insights
 - 
@@ -51,4 +54,4 @@ The following project was created for the SQL Challenge # 4 conducted by Codebas
  - For images
 
 # Thank You
-
+ - I would like to thank Dhaval Patel, Hemanand Vadivel and to the entire team of Codebasics for creating such challenge that give us hands-on practice for real-life projects. Also, would like to thank them for this unique opportunity that could lead to building resume projects.
