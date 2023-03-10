@@ -42,10 +42,10 @@ The following project was created for the SQL Challenge # 4 conducted by Codebas
 - Consumer domain terms:
 - MySQL clauses and functions
 - Using HEX colors in PowerBI
-- Animations and Video recording in PowerpOint presentation
+- Animations and Video recording in PowerPoint presentation
 
-# Insights
-- All the insights
+# Key Insights
+- 
 
 # Credits
  - For images
