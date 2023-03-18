@@ -39,7 +39,7 @@ The following project was created for the SQL Challenge # 4 conducted by Codebas
 # Things I Learnt
 - **Consumer domain terms**: fiscal year, gross price, manufacturing cost, pre - invoice discount, gross sales, sold quantity. 
 - **MySQL concepts** 
-  - **Clauses**:SEELCT, FROM, WHERE, ORDER BY, GROUP BY.
+  - **Clauses**:SELECT, FROM, WHERE, ORDER BY, GROUP BY.
   - **Operators**: =, >=, <=, AND.
   - **Functions**: DISTINCT, COUNT, ROUND, RANK, OVER, PARTITION, LIMIT, DESC.
   - **Aggregate Functions**: MAX, MIN, SUM, AVG.
@@ -93,6 +93,7 @@ The following project was created for the SQL Challenge # 4 conducted by Codebas
       - [Viveks](https://media.viveks.com/media/logo/stores/1/Viveks_Logo_live.png)
     - Slide 9: [India Flag](https://www.worldometers.info/img/flags/in-flag.gif)
  - For Icons on Slide 18: https://www.flaticon.com/
+ - GitHub and LinkedIn Icon: https://simpleicons.org/
 
 # Thank You
  - I would like to thank Dhaval Patel, Hemanand Vadivel and to the entire team of Codebasics for creating such challenge that give me hands-on practice on real-life projects. Also, would like to thank them for this unique opportunity that is leading me to build my resume projects.
